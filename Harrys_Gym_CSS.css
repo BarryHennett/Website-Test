@@ -1,0 +1,45 @@
+body {
+	background-color: #782221;
+	font-family: Verdana, Arial, sans-serif;
+    color: white;
+	font-size: small;
+	margin: 10;
+	padding: 0;
+	}
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a{
+        display: block;
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+        text-align: left;
+        
+      }
+
+      p {
+        padding: 14px 16px;
+        text-align: left;
+        width: 70%;
+      }
+      body{
+        float: left;
+        width: 100%;
+        padding: 14px 16px;
+      }
+
+      footer{
+        text-align: bottom;
+        margin-top: 250px;
+      }
